@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirmalkmt/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## String
+|  |
+| ------- |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/nirmalkmt/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/nirmalkmt/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
