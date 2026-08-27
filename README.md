@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nirmalkmt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/nirmalkmt/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirmalkmt/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nirmalkmt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nirmalkmt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nirmalkmt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
