@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirmalkmt/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nirmalkmt/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalkmt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirmalkmt/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3668-restore-finishing-order](https://github.com/nirmalkmt/leetcode/tree/master/3668-restore-finishing-order) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nirmalkmt/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
